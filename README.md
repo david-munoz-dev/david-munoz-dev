@@ -1,61 +1,40 @@
-<div align="center">
+# Hola, soy David Muñoz 👋
 
-<sub>ESTUDIANTE DE INGENIERÍA · AGUASCALIENTES, MX</sub>
+Desarrollador de software y estudiante de **Ingeniería en Sistemas** en la Universidad Autónoma de Aguascalientes, México.
+Construyo soluciones prácticas: desde sistemas a medida para negocios hasta programación de bajo nivel.
 
-# David Muñoz
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=440&lines=Estudiante+de+Ingenier%C3%ADa;C%2B%2B+%C2%B7+Python+%C2%B7+Java;Aprendiendo+cada+d%C3%ADa+%F0%9F%9A%80)](https://github.com/davidelpollon-eng)
-
-</div>
+### 💼 Disponible para proyectos freelance
+- Sistemas a medida (puntos de venta, inventarios, control de pedidos)
+- Páginas y aplicaciones web
+- Bases de datos SQL
+- Scripts y automatización con Python
 
 ---
 
-<div align="center">
+### 🛠️ Tecnologías
 
-**Estudiante de Ingeniería · Aguascalientes, MX 🇲🇽**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-654FF0?style=flat&logo=assemblyscript&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-Aprendiendo a construir software, de bajo nivel a la web.
+---
 
-[Instagram](https://www.instagram.com/davidscentt)
+### 🚀 Proyectos destacados
 
-![Profile views](https://komarev.com/ghpvc/?username=davidelpollon-eng&color=58A6FF&style=flat)
-
-</div>
-
-## Stack
-
-<div align="center">
-
-![Stack](https://skillicons.dev/icons?i=cpp,c,py,java,html,css,js&theme=dark)
-
-<sub>También: Assembly</sub>
-
-</div>
-
-## Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats-eight-iota-63.vercel.app/api?username=davidelpollon-eng&show_icons=true&theme=github_dark&hide_border=true" height="165" alt="GitHub stats" />
-<img src="https://streak-stats.demolab.com?user=davidelpollon-eng&theme=github-dark&hide_border=true" height="165" alt="GitHub streak stats" />
-
-<img src="https://github-readme-stats-eight-iota-63.vercel.app/api/top-langs/?username=davidelpollon-eng&layout=compact&theme=github_dark&hide_border=true" height="165" alt="Top languages" />
-
-</div>
-
-## Projects
-
-| Proyecto | Qué es | Stack |
+| Proyecto | Descripción | Tecnologías |
 |---|---|---|
-| [PROFE_SERNA_PROGRA](https://github.com/davidelpollon-eng/PROFE_SERNA_PROGRA) | Ejercicios y tareas de la materia de Programación | C++ |
-| [arquitecturadecomputadoras](https://github.com/davidelpollon-eng/arquitecturadecomputadoras) | Proyecto de la materia de Arquitectura de Computadoras | Assembly · C |
+| **Punto de venta para pizzería** | Sistema de ventas y pedidos desarrollado para un cliente real, actualmente en uso. | JavaScript · SQL · HTML/CSS |
+| **Simulador de memoria y Round Robin** | Simulador de gestión de memoria y planificación de procesos (proyecto en equipo; mi parte: gestor de memoria). | C++ |
+| [**Calculadora UART en ATmega328P**](https://github.com/david-munoz-dev/arquitecturadecomputadoras) | Evaluador de expresiones con comunicación serial en un microcontrolador. | Assembly · C |
+| [**Proyecto Final de Estructura de Datos**](https://github.com/Charales123/Proyecto-Final-Estructura-Datos) | Proyecto en equipo de estructuras de datos. | C |
 
-<div align="center">
+---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/davidelpollon-eng/davidelpollon-eng/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/davidelpollon-eng/davidelpollon-eng/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/davidelpollon-eng/davidelpollon-eng/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
+![Estadísticas](https://github-readme-stats.vercel.app/api?username=david-munoz-dev&show_icons=true&theme=tokyonight&hide_border=true)
